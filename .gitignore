@@ -1,0 +1,12 @@
+\venv
+\__pycache__
+.vscode
+*.csv
+*.log
+api_config.yaml
+env_config.yaml
+.flake8
+.pylintrc
+.tabnine.model
+run_test.py
+/logs
